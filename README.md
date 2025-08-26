@@ -1,13 +1,6 @@
-# Optimising Urban Parcel Logistics Using Data Structures and Algorithms
+# COMP1002 - Data Structures and Algorithms Final Assignment
 
-## LICENSE
-Copyright (c) [2025 - End of Time] [Muhammad Annas Atif]
-
-All Rights Reserved.
-
-Permission is hereby granted to view the source code and documentation for evaluation purposes only. No permission is granted to copy, modify, distribute, or sub-license the software, whether for commercial, non-commercial, or academic purposes.
-
-This code was written for a university assignment at Curtin University. It is shared for educational and portfolio purposes only. Please do not copy or submit any part of this work for academic credit, as that may violate academic integrity policies.
+Optimising Urban Parcel Logistics Using Data Structures and Algorithms
 
 ## Description
 
@@ -105,8 +98,8 @@ Please note that all instructions provided to run the program assume that you ar
    9. You are also able to pull data from Module 2 back into Module 3 using the function built into module 2. (Note that this might be a bit buggy, so your milage may vary. I recommend using the CSV imports)
 
 ## Author
-Muhammad Annas Atif
-[Contact Me](mailto:22224125@student.curtin.edu.au?subject=[Optimising_Urban_Planning_Logistics|Project])
+Muhammad Annas Atif | 22224125
+[Contact Me](mailto:22224125@student.curtin.edu.au?subject=[COMP1002|Assignment])
 
 ## Version History
 
@@ -139,3 +132,7 @@ Muhammad Annas Atif
 * 0.1
     * Project initialisation.
     * Basic structure and initial commit.
+
+## Acknowledgments
+* Thank you to the tutors of this unit for coping with me all semester :smile:
+* Me, Myself and I.

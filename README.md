@@ -1,6 +1,4 @@
-# COMP1002 - Data Structures and Algorithms Final Assignment
-
-Optimising Urban Parcel Logistics Using Data Structures and Algorithms
+# Optimising Urban Parcel Logistics Using Data Structures and Algorithms
 
 ## Description
 
@@ -98,7 +96,7 @@ Please note that all instructions provided to run the program assume that you ar
    9. You are also able to pull data from Module 2 back into Module 3 using the function built into module 2. (Note that this might be a bit buggy, so your milage may vary. I recommend using the CSV imports)
 
 ## Author
-Muhammad Annas Atif | 22224125
+Muhammad Annas Atif
 [Contact Me](mailto:22224125@student.curtin.edu.au?subject=[COMP1002|Assignment])
 
 ## Version History
@@ -132,7 +130,3 @@ Muhammad Annas Atif | 22224125
 * 0.1
     * Project initialisation.
     * Basic structure and initial commit.
-
-## Acknowledgments
-* Thank you to the tutors of this unit for coping with me all semester :smile:
-* Me, Myself and I.
